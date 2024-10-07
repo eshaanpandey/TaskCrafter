@@ -48,13 +48,15 @@ The project follows the **Model-View-Controller (MVC)** design pattern:
 The light/dark mode toggle enhances usability by allowing users to switch between modes based on personal preference or lighting conditions. 
 
 ## 📸 Screenshots
-<img src="https://github.com/user-attachments/assets/123ab740-a825-41c2-9c57-02c6004720be" alt="Image 1" width="300" style="display: block; margin: 0 auto;"/>
+<img src="https://github.com/user-attachments/assets/f7ec033a-93f0-4bb7-8b16-714fde9a4b98" alt="Image 1" width="300" style="display: block; margin: 0 auto;"/>
 
-<img src="https://github.com/user-attachments/assets/545a78e5-6695-4da9-bd4f-649a1994a77d" alt="Image 2" width="300" style="display: block; margin: 0 auto;"/>
+<img src="https://github.com/user-attachments/assets/d9a9c13b-a667-4535-807c-cc342e4ce0c6" alt="Image 2" width="300" style="display: block; margin: 0 auto;"/>
 
-<img src="https://github.com/user-attachments/assets/f622e28c-b705-428b-b91b-98a2a3819170" alt="Image 3" width="300" style="display: block; margin: 0 auto;"/>
+<img src="https://github.com/user-attachments/assets/f4dda779-92da-49fa-9446-347703b23abd" alt="Image 3" width="300" style="display: block; margin: 0 auto;"/>
 
-<img src="https://github.com/user-attachments/assets/cdb9a20e-d9e3-46d8-b699-6d1f18a8ec1a" alt="Image 4" width="300" style="display: block; margin: 0 auto;"/>
+<img src="https://github.com/user-attachments/assets/6b7f8807-edc3-4d2a-8f75-7d169e9df68d" alt="Image 4" width="300" style="display: block; margin: 0 auto;"/>
+
+<img src="https://github.com/user-attachments/assets/56d4ad8e-4b83-4569-9945-5c08f9ae7dfd" alt="Image 4" width="300" style="display: block; margin: 0 auto;"/>
 
 ## 🧪 Running Tests
 
