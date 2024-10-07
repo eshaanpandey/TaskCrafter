@@ -41,7 +41,7 @@ struct TaskFormView: View {
             if taskManager.tasks.firstIndex(where: { $0.id == task.id }) != nil {
                 Button(action: {
                     taskManager.deleteTask(task: task) // Delete the task
-                    presentationMode.wrappedValue.dismiss() // Dismiss the view after deletion
+                    presentationMode.wrappedValue.dismiss()
                 }) {
                     Text("Delete Task")
                         .frame(maxWidth: .infinity, alignment: .center)
@@ -54,11 +54,7 @@ struct TaskFormView: View {
         }
         .navigationTitle(task.title.isEmpty ? "Add Task" : "Edit Task")
         .toolbar {
-            // Cancel button to dismiss the form without saving
             ToolbarItem(placement: .navigationBarLeading) {
-//                Button("Cancel") {
-//                    presentationMode.wrappedValue.dismiss()
-//                }
             }
         }
     }

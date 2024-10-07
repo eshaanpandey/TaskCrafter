@@ -37,7 +37,7 @@ struct TaskListView: View {
             }
             .preferredColorScheme(isDarkMode ? .dark : .light) // Light/Dark mode toggle
             .sheet(isPresented: $showAddTaskView) {
-                TaskFormView(taskManager: taskManager, task: Task(title: "", description: "", dueDate: Date(), priority: .medium, isCompleted: false)) // Create a new task when adding
+                TaskFormView(taskManager: taskManager, task: Task(title: "", description: "", dueDate: Date(), priority: .medium, isCompleted: false))
             }
         }
     }
