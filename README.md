@@ -58,6 +58,9 @@ The light/dark mode toggle enhances usability by allowing users to switch betwee
 
 <img src="https://github.com/user-attachments/assets/56d4ad8e-4b83-4569-9945-5c08f9ae7dfd" alt="Image 4" width="300" style="display: block; margin: 0 auto;"/>
 
+## Demo Video
+You can check the demo video [here](https://drive.google.com/file/d/1IizPpbUk1pI-YJ0KRhVajfVVlDjiiMV8/view?usp=sharing).
+
 ## 🧪 Running Tests
 
 1. Open the project in Xcode.
